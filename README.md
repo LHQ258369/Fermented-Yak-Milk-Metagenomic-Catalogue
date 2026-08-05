@@ -12,7 +12,7 @@ Step6_drep.sh # Dereplication of MAGs
 Step7_gtdbtk.sh # Taxonomic classification of MAGs
 Step8_salmon.sh # Gene catalog quantification
 Step9_antismash_bigscape.sh # Secondary metabolite BGC prediction and comparative analysis 
-Step10_metabolic_interaction.sh # Step10: Prediction of microbial interactions based on metabolic networks
+Step10_metabolic_interaction.sh # Prediction of microbial interactions based on metabolic networks
 
 Execution notes: Run scripts sequentially from step1 to step10, as downstream steps depend on outputs from previous steps; Before execution, edit each script to customize working directories, database paths, and sample information.
 
