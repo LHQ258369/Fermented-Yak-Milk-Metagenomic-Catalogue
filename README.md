@@ -1,4 +1,4 @@
-Title: A metagenomic catalogue reveals interaction diversity of simply assembled microbiomes of fermented yak milk in the Tibetan Plateau
+Title: A metagenomic catalogue reveals strain-level interaction diversity within a taxonomically conserved core of fermented yak milk on the Tibetan Plateau
  
 Project Overview: This repository contains a complete set of shell scripts for shotgun metagenomic analysis of traditionally fermented yak milk from the Tibet Plateau. The pipeline covers raw read quality control, host sequence decontamination, metagenomic assembly, metagenome-assembled genome (MAG) binning, dereplication, taxonomic annotation, gene quantification, secondary metabolite biosynthetic gene cluster prediction, and microbial metabolic interaction inference.  
 
@@ -18,4 +18,4 @@ Execution notes: Run scripts sequentially from step1 to step10, as downstream st
 
 Citation: If you have used this script in your research, please use the following link for references to our script: https://github.com/LHQ258369/Fermented-Yak-Milk-Metagenomic-Catalogue.
 
-Limitations: This workflow was designed specifically for "A metagenomic catalogue reveals interaction diversity of simply assembled microbiomes of fermented yak milk in the Tibetan Plateau"; editing and revisions might be required before applying to other projects.
+Limitations: This workflow was designed specifically for "A metagenomic catalogue reveals strain-level interaction diversity within a taxonomically conserved core of fermented yak milk on the Tibetan Plateau"; editing and revisions might be required before applying to other projects.
